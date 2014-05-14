@@ -93,7 +93,11 @@ def ac_creatorDeathPlaceAppeUri():
 	if val:
   		return val + "/appellation"
 
+def ac_bibliographyUri():
+	return "bibliography/" + getValue("Accession Number")
 
+def ac_publicationUri():
+	return ac_bibliographyUri() + "/publication"
 
 
 
