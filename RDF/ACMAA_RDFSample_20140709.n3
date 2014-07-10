@@ -1,0 +1,1074 @@
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/nationality/American> .
+<person-institution/charles_m._russell/birth/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P98i_was_born> <person-institution/charles_m._russell/birth> .
+<object/1961.135/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/1961.135> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/1961.135/regno> .
+<object/1961.135> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/1961.135/production> .
+<thesauri/material/oil_on_canvas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material> .
+<thesauri/role/artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<object/1961.135/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <object/1961.135/production/date> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-135_s_0.jpg/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "ACMAA_1961-135.tif" .
+<object/1961.135> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/1961.135> .
+<thesauri/subjectkeyword/buffalo_robes> <http://www.w3.org/2000/01/rdf-schema#label> " buffalo robes" .
+<object/1961.135> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <thesauri/material/oil_on_canvas> .
+<object/1961.135> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> .
+<object/1961.135/production/date> <http://www.w3.org/2000/01/rdf-schema#label> "ca. 1890" .
+<object/1961.135/dimension/height/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-135_s_0.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E38_Image> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amon Carter Museum of American Art, Fort Worth, Texas" .
+<person-institution/charles_m._russell/death> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/charles_m._russell/death/date> .
+<object/1961.135> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/1961.135/title> .
+<object/1961.135/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<object/1961.135> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.135/dimension/width/cm> .
+<object/1961.135/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.135> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> <object/1961.135/concept> .
+<object/1961.135/production/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<person-institution/charles_m._russell/birth> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/birth/st._louis_missouri> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-135_s_0.jpg/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/charles_m._russell/appellation> .
+<person-institution/charles_m._russell/death/date> <http://www.w3.org/2000/01/rdf-schema#label> "1926" .
+<object/1961.135> <http://collection.americanart.si.edu/id/ontologies/PE_object_mainclass> <thesauri/classification/paintings> .
+<object/1961.135/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/indians_of_north_america> .
+<object/1961.135/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/hides_&_skins> .
+<object/1961.135/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/tipis> .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/death> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E69_Death> .
+<object/1961.135/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/native_american> .
+<thesauri/nationality/American> <http://www.w3.org/2000/01/rdf-schema#label> "American" .
+<object/1961.135/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "70.2" .
+<thesauri/placetype/City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<bibliography/1961.135> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/1961.135/publication> .
+<person-institution/charles_m._russell/death> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/great_falls_montana> .
+<person-institution/charles_m._russell/death/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/2000/01/rdf-schema#label> " Native American" .
+<thesauri/role/artist> <http://www.w3.org/2000/01/rdf-schema#label> "artist" .
+<object/1961.135/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/height> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P100i_died_in> <person-institution/charles_m._russell/death> .
+<thesauri/place/great_falls_montana> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<bibliography/1961.135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<thesauri/place/birth/st._louis_missouri> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<object/1961.135> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.135/dimension/height/cm> .
+<person-institution/charles_m._russell/birth> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/charles_m._russell/birth/date> .
+<thesauri/nationality/American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<thesauri/dimension/width> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/dimension/height> <http://www.w3.org/2000/01/rdf-schema#label> "Height" .
+<thesauri/classification/paintings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/place/great_falls_montana> <http://www.w3.org/2008/05/skos#prefLabel> "Great Falls, Montana" .
+<thesauri/dimension/height> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://qudt.org/vocab/unit#Centimeter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> .
+<person-institution/charles_m._russell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<person-institution/charles_m._russell/birth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E67_Birth> .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/2000/01/rdf-schema#label> " Indians of North America" .
+<thesauri/gender/male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<thesauri/subjectkeyword/tipis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.135/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/women> .
+<object/1961.135/concept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/1961.135/dimension/width/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/role/artist> .
+<object/1961.135/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<thesauri/gender/male> <http://www.w3.org/2000/01/rdf-schema#label> "male" .
+<object/1961.135> <http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-135_s_0.jpg> .
+<object/1961.135/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<thesauri/subjectkeyword/buffalo_robes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/place/birth/st._louis_missouri> <http://www.w3.org/2008/05/skos#prefLabel> "St. Louis, Missouri" .
+<person-institution/charles_m._russell/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<object/1961.135/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/buffalo_robes> .
+<thesauri/dimension/width> <http://www.w3.org/2000/01/rdf-schema#label> "Width" .
+<object/1961.135/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "99.4" .
+<thesauri/subjectkeyword/hides_&_skins> <http://www.w3.org/2000/01/rdf-schema#label> " Hides & skins" .
+<object/1961.135> <http://collection.americanart.si.edu/id/ontologies/PE_medium_description> "Oil on canvas" .
+<object/1961.135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<thesauri/classification/paintings> <http://www.w3.org/2008/05/skos#prefLabel> "paintings" .
+<person-institution/charles_m._russell/birth/date> <http://www.w3.org/2000/01/rdf-schema#label> "1864" .
+<thesauri/subjectkeyword/women> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.135/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <object/1961.135> .
+<thesauri/subjectkeyword/women> <http://www.w3.org/2000/01/rdf-schema#label> " women" .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-135_s_0.jpg> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-135_s_0.jpg/identifier> .
+<object/1961.135/title> <http://www.w3.org/2000/01/rdf-schema#label> "The Silk Robe" .
+<thesauri/place/birth/st._louis_missouri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<object/1961.135/production/date> <http://www.cidoc-crm.org/cidoc-crm/P80_end_is_qualified_by> "1897" .
+<object/1961.135/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/width> .
+<thesauri/place/great_falls_montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<object/1961.135/regno> <http://www.w3.org/2000/01/rdf-schema#label> "1961.135" .
+<person-institution/charles_m._russell/appellation> <http://collection.americanart.si.edu/id/ontologies/PE_firstname> "Charles" .
+<bibliography/1961.135/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/1961.135/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/charles_m._russell> .
+<bibliography/1961.135> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "http://www.cartermuseum.org/artworks/2392" .
+<thesauri/subjectkeyword/tipis> <http://www.w3.org/2000/01/rdf-schema#label> "tipis" .
+<thesauri/subjectkeyword/hides_&_skins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.135/production/date> <http://www.cidoc-crm.org/cidoc-crm/P79_beginning_is_qualified_by> "1885" .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/gender/male> .
+<person-institution/charles_m._russell/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Charles M. Russell" .
+
+<object/1961.136/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/nationality/American> .
+<person-institution/charles_m._russell/birth/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/1961.136> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.136/dimension/height/cm> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P98i_was_born> <person-institution/charles_m._russell/birth> .
+<thesauri/material/oil_on_canvas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material> .
+<thesauri/role/artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-136_s_0.jpg/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "ACMAA_1961-136.tif" .
+<object/1961.136/production/date> <http://www.cidoc-crm.org/cidoc-crm/P79_beginning_is_qualified_by> "1885" .
+<object/1961.136/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <object/1961.136> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amon Carter Museum of American Art, Fort Worth, Texas" .
+<person-institution/charles_m._russell/death> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/charles_m._russell/death/date> .
+<object/1961.136/regno> <http://www.w3.org/2000/01/rdf-schema#label> "1961.136" .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.136/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "46" .
+<person-institution/charles_m._russell/birth> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/birth/st._louis_missouri> .
+<thesauri/subjectkeyword/snow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/charles_m._russell/appellation> .
+<person-institution/charles_m._russell/death/date> <http://www.w3.org/2000/01/rdf-schema#label> "1926" .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/death> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E69_Death> .
+<object/1961.136/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<object/1961.136> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <thesauri/material/oil_on_canvas> .
+<thesauri/nationality/American> <http://www.w3.org/2000/01/rdf-schema#label> "American" .
+<object/1961.136/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/width> .
+<thesauri/placetype/City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/death> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/great_falls_montana> .
+<person-institution/charles_m._russell/death/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/2000/01/rdf-schema#label> " Native American" .
+<thesauri/subjectkeyword/elk_hunting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/role/artist> <http://www.w3.org/2000/01/rdf-schema#label> "artist" .
+<object/1961.136/concept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P100i_died_in> <person-institution/charles_m._russell/death> .
+<thesauri/place/great_falls_montana> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<object/1961.136/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<bibliography/1961.136> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/1961.136/publication> .
+<thesauri/place/birth/st._louis_missouri> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<bibliography/1961.136/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<person-institution/charles_m._russell/birth> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/charles_m._russell/birth/date> .
+<thesauri/nationality/American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<thesauri/dimension/width> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.136> <http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-136_s_0.jpg> .
+<thesauri/dimension/height> <http://www.w3.org/2000/01/rdf-schema#label> "Height" .
+<thesauri/classification/paintings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/place/great_falls_montana> <http://www.w3.org/2008/05/skos#prefLabel> "Great Falls, Montana" .
+<object/1961.136/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <object/1961.136/production/date> .
+<thesauri/dimension/height> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://qudt.org/vocab/unit#Centimeter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> .
+<object/1961.136/production/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/1961.136> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.136/dimension/width/cm> .
+<person-institution/charles_m._russell/birth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E67_Birth> .
+<person-institution/charles_m._russell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<object/1961.136/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/crow> .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/2000/01/rdf-schema#label> " Indians of North America" .
+<thesauri/gender/male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.136/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/snow> .
+<object/1961.136/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/charles_m._russell> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/role/artist> .
+<object/1961.136> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> <object/1961.136/concept> .
+<thesauri/gender/male> <http://www.w3.org/2000/01/rdf-schema#label> "male" .
+<thesauri/subjectkeyword/elk_hunting> <http://www.w3.org/2000/01/rdf-schema#label> " Elk hunting" .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-136_s_0.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E38_Image> .
+<thesauri/place/birth/st._louis_missouri> <http://www.w3.org/2008/05/skos#prefLabel> "St. Louis, Missouri" .
+<person-institution/charles_m._russell/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<thesauri/dimension/width> <http://www.w3.org/2000/01/rdf-schema#label> "Width" .
+<object/1961.136> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/1961.136/production> .
+<object/1961.136/dimension/height/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/1961.136> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> .
+<object/1961.136/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/height> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-136_s_0.jpg/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/1961.136/dimension/width/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<thesauri/subjectkeyword/crow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.136/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/elk_hunting> .
+<object/1961.136/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/indians_of_north_america> .
+<thesauri/subjectkeyword/winter> <http://www.w3.org/2000/01/rdf-schema#label> " winter" .
+<thesauri/classification/paintings> <http://www.w3.org/2008/05/skos#prefLabel> "paintings" .
+<object/1961.136> <http://collection.americanart.si.edu/id/ontologies/PE_medium_description> "Oil on canvas" .
+<person-institution/charles_m._russell/birth/date> <http://www.w3.org/2000/01/rdf-schema#label> "1864" .
+<bibliography/1961.136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<thesauri/subjectkeyword/winter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.136/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/winter> .
+<object/1961.136> <http://collection.americanart.si.edu/id/ontologies/PE_object_mainclass> <thesauri/classification/paintings> .
+<object/1961.136> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/1961.136/regno> .
+<thesauri/place/birth/st._louis_missouri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<object/1961.136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/1961.136/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/native_american> .
+<object/1961.136/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/1961.136> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/1961.136/title> .
+<object/1961.136/production/date> <http://www.cidoc-crm.org/cidoc-crm/P80_end_is_qualified_by> "1897" .
+<object/1961.136/production/date> <http://www.w3.org/2000/01/rdf-schema#label> "ca. 1890" .
+<thesauri/place/great_falls_montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<person-institution/charles_m._russell/appellation> <http://collection.americanart.si.edu/id/ontologies/PE_firstname> "Charles" .
+<object/1961.136/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "61" .
+<thesauri/subjectkeyword/snow> <http://www.w3.org/2000/01/rdf-schema#label> " snow" .
+<object/1961.136/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<bibliography/1961.136> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "http://www.cartermuseum.org/artworks/2393" .
+<object/1961.136/title> <http://www.w3.org/2000/01/rdf-schema#label> "Crow Indians Hunting Elk" .
+<object/1961.136> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/1961.136> .
+<thesauri/subjectkeyword/crow> <http://www.w3.org/2000/01/rdf-schema#label> "Crow" .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-136_s_0.jpg> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-136_s_0.jpg/identifier> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/gender/male> .
+<person-institution/charles_m._russell/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Charles M. Russell" .
+
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/nationality/American> .
+<person-institution/charles_m._russell/birth/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P98i_was_born> <person-institution/charles_m._russell/birth> .
+<object/1961.144/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/indians_of_north_america> .
+<object/1961.144/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/native_american> .
+<object/1961.144/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/width> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-144_s_0.jpg/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "ACMAA_1961-144.tif" .
+<thesauri/material/oil_on_canvas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material> .
+<thesauri/role/artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<object/1961.144/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/blizzards> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-144_s_0.jpg/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<bibliography/1961.144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<thesauri/subjectkeyword/blackfeet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amon Carter Museum of American Art, Fort Worth, Texas" .
+<object/1961.144> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> .
+<person-institution/charles_m._russell/death> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/charles_m._russell/death/date> .
+<object/1961.144> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/1961.144/regno> .
+<object/1961.144/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/blackfeet> .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/birth> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/birth/st._louis_missouri> .
+<thesauri/subjectkeyword/snow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/charles_m._russell/appellation> .
+<object/1961.144/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/winter> .
+<person-institution/charles_m._russell/death/date> <http://www.w3.org/2000/01/rdf-schema#label> "1926" .
+<object/1961.144> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> <object/1961.144/concept> .
+<object/1961.144/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/snow> .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.144/title> <http://www.w3.org/2000/01/rdf-schema#label> "Lost in a Snowstorm -- We Are Friends" .
+<object/1961.144/production/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<person-institution/charles_m._russell/death> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E69_Death> .
+<object/1961.144/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/1961.144> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/1961.144/title> .
+<thesauri/nationality/American> <http://www.w3.org/2000/01/rdf-schema#label> "American" .
+<object/1961.144/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/sign_language> .
+<thesauri/placetype/City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.144/dimension/height/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<person-institution/charles_m._russell/death> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/great_falls_montana> .
+<person-institution/charles_m._russell/death/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/2000/01/rdf-schema#label> " Native American" .
+<thesauri/role/artist> <http://www.w3.org/2000/01/rdf-schema#label> "artist" .
+<thesauri/subjectkeyword/blackfeet> <http://www.w3.org/2000/01/rdf-schema#label> "Blackfeet" .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P100i_died_in> <person-institution/charles_m._russell/death> .
+<object/1961.144/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/cowboys> .
+<thesauri/place/great_falls_montana> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<object/1961.144/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<object/1961.144/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <object/1961.144/production/date> .
+<thesauri/place/birth/st._louis_missouri> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<object/1961.144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<person-institution/charles_m._russell/birth> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/charles_m._russell/birth/date> .
+<object/1961.144> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.144/dimension/height/cm> .
+<thesauri/nationality/American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<object/1961.144> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/1961.144> .
+<thesauri/dimension/width> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/dimension/height> <http://www.w3.org/2000/01/rdf-schema#label> "Height" .
+<thesauri/classification/paintings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/subjectkeyword/blizzards> <http://www.w3.org/2000/01/rdf-schema#label> " blizzards" .
+<object/1961.144/production/date> <http://www.cidoc-crm.org/cidoc-crm/P80_end_is_qualified_by> "1888" .
+<thesauri/place/great_falls_montana> <http://www.w3.org/2008/05/skos#prefLabel> "Great Falls, Montana" .
+<object/1961.144> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.144/dimension/width/cm> .
+<object/1961.144/regno> <http://www.w3.org/2000/01/rdf-schema#label> "1961.144" .
+<object/1961.144/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<thesauri/dimension/height> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.144/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://qudt.org/vocab/unit#Centimeter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> .
+<object/1961.144> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/1961.144/production> .
+<bibliography/1961.144> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/1961.144/publication> .
+<person-institution/charles_m._russell/birth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E67_Birth> .
+<person-institution/charles_m._russell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<thesauri/subjectkeyword/cowboys> <http://www.w3.org/2000/01/rdf-schema#label> " Cowboys" .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/2000/01/rdf-schema#label> " Indians of North America" .
+<thesauri/gender/male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/role/artist> .
+<object/1961.144/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "109.5" .
+<thesauri/gender/male> <http://www.w3.org/2000/01/rdf-schema#label> "male" .
+<thesauri/subjectkeyword/sign_language> <http://www.w3.org/2000/01/rdf-schema#label> " sign language" .
+<thesauri/subjectkeyword/cowboys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/place/birth/st._louis_missouri> <http://www.w3.org/2008/05/skos#prefLabel> "St. Louis, Missouri" .
+<person-institution/charles_m._russell/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<bibliography/1961.144> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "http://www.cartermuseum.org/artworks/2399" .
+<thesauri/dimension/width> <http://www.w3.org/2000/01/rdf-schema#label> "Width" .
+<object/1961.144/concept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/1961.144/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/charles_m._russell> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-144_s_0.jpg> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-144_s_0.jpg/identifier> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-144_s_0.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E38_Image> .
+<bibliography/1961.144/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<thesauri/subjectkeyword/sign_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.144/production/date> <http://www.cidoc-crm.org/cidoc-crm/P79_beginning_is_qualified_by> "1888" .
+<thesauri/subjectkeyword/winter> <http://www.w3.org/2000/01/rdf-schema#label> " winter" .
+<thesauri/classification/paintings> <http://www.w3.org/2008/05/skos#prefLabel> "paintings" .
+<person-institution/charles_m._russell/birth/date> <http://www.w3.org/2000/01/rdf-schema#label> "1864" .
+<object/1961.144> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <thesauri/material/oil_on_canvas> .
+<object/1961.144/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<thesauri/subjectkeyword/winter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.144> <http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-144_s_0.jpg> .
+<object/1961.144/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "61" .
+<thesauri/place/birth/st._louis_missouri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<object/1961.144/production/date> <http://www.w3.org/2000/01/rdf-schema#label> "1888" .
+<object/1961.144> <http://collection.americanart.si.edu/id/ontologies/PE_object_mainclass> <thesauri/classification/paintings> .
+<object/1961.144/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <object/1961.144> .
+<thesauri/place/great_falls_montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<thesauri/subjectkeyword/blizzards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/appellation> <http://collection.americanart.si.edu/id/ontologies/PE_firstname> "Charles" .
+<object/1961.144/dimension/width/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<thesauri/subjectkeyword/snow> <http://www.w3.org/2000/01/rdf-schema#label> " snow" .
+<object/1961.144> <http://collection.americanart.si.edu/id/ontologies/PE_medium_description> "Oil on canvas" .
+<object/1961.144/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/height> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/gender/male> .
+<person-institution/charles_m._russell/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Charles M. Russell" .
+
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/nationality/American> .
+<object/1961.146> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/1961.146> .
+<thesauri/subjectkeyword/horses> <http://www.w3.org/2000/01/rdf-schema#label> " Horses" .
+<person-institution/charles_m._russell/birth/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P98i_was_born> <person-institution/charles_m._russell/birth> .
+<object/1961.146/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "76.5" .
+<thesauri/role/artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<thesauri/material/oil_on_canvas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material> .
+<thesauri/subjectkeyword/bison_hunting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.146/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/horseback_riding> .
+<object/1961.146> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> <object/1961.146/concept> .
+<object/1961.146> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <thesauri/material/oil_on_canvas> .
+<object/1961.146/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/native_american> .
+<object/1961.146/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <object/1961.146/production/date> .
+<object/1961.146/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/blackfoot> .
+<object/1961.146> <http://collection.americanart.si.edu/id/ontologies/PE_medium_description> "Oil on canvas" .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amon Carter Museum of American Art, Fort Worth, Texas" .
+<object/1961.146/production/date> <http://www.w3.org/2000/01/rdf-schema#label> "1919" .
+<thesauri/subjectkeyword/montana> <http://www.w3.org/2000/01/rdf-schema#label> " Montana" .
+<person-institution/charles_m._russell/death> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/charles_m._russell/death/date> .
+<object/1961.146/title> <http://www.w3.org/2000/01/rdf-schema#label> "The Buffalo Hunt [No. 39]" .
+<object/1961.146/concept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/1961.146/production/date> <http://www.cidoc-crm.org/cidoc-crm/P79_beginning_is_qualified_by> "1919" .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<bibliography/1961.146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<object/1961.146/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/buffalo> .
+<person-institution/charles_m._russell/birth> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/birth/st._louis_missouri> .
+<object/1961.146/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/animals> .
+<object/1961.146/production/date> <http://www.cidoc-crm.org/cidoc-crm/P80_end_is_qualified_by> "1919" .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/charles_m._russell/appellation> .
+<person-institution/charles_m._russell/death/date> <http://www.w3.org/2000/01/rdf-schema#label> "1926" .
+<object/1961.146> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.146/dimension/height/cm> .
+<object/1961.146> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/1961.146/production> .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/death> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E69_Death> .
+<thesauri/subjectkeyword/buffalo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/nationality/American> <http://www.w3.org/2000/01/rdf-schema#label> "American" .
+<object/1961.146/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<thesauri/placetype/City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.146> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> .
+<object/1961.146/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/horses> .
+<person-institution/charles_m._russell/death> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/great_falls_montana> .
+<thesauri/subjectkeyword/horseback_riding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/death/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<bibliography/1961.146/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<thesauri/subjectkeyword/bison_hunting> <http://www.w3.org/2000/01/rdf-schema#label> " Bison hunting" .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/2000/01/rdf-schema#label> " Native American" .
+<thesauri/role/artist> <http://www.w3.org/2000/01/rdf-schema#label> "artist" .
+<thesauri/subjectkeyword/animals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P100i_died_in> <person-institution/charles_m._russell/death> .
+<object/1961.146/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<thesauri/place/great_falls_montana> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<object/1961.146/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/width> .
+<thesauri/place/birth/st._louis_missouri> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<object/1961.146/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "122.2" .
+<person-institution/charles_m._russell/birth> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/charles_m._russell/birth/date> .
+<object/1961.146> <http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-146_s_0.jpg> .
+<thesauri/nationality/American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<object/1961.146/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<thesauri/dimension/width> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-146_s_0.jpg> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-146_s_0.jpg/identifier> .
+<bibliography/1961.146> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/1961.146/publication> .
+<thesauri/subjectkeyword/blackfoot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/dimension/height> <http://www.w3.org/2000/01/rdf-schema#label> "Height" .
+<object/1961.146/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/indians_of_north_america> .
+<thesauri/classification/paintings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.146/dimension/height/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-146_s_0.jpg/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<thesauri/place/great_falls_montana> <http://www.w3.org/2008/05/skos#prefLabel> "Great Falls, Montana" .
+<thesauri/dimension/height> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://qudt.org/vocab/unit#Centimeter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-146_s_0.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E38_Image> .
+<person-institution/charles_m._russell/birth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E67_Birth> .
+<person-institution/charles_m._russell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/2000/01/rdf-schema#label> " Indians of North America" .
+<thesauri/gender/male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<thesauri/subjectkeyword/buffalo> <http://www.w3.org/2000/01/rdf-schema#label> "buffalo" .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/role/artist> .
+<thesauri/gender/male> <http://www.w3.org/2000/01/rdf-schema#label> "male" .
+<thesauri/subjectkeyword/horses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.146/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/height> .
+<object/1961.146/regno> <http://www.w3.org/2000/01/rdf-schema#label> "1961.146" .
+<thesauri/place/birth/st._louis_missouri> <http://www.w3.org/2008/05/skos#prefLabel> "St. Louis, Missouri" .
+<person-institution/charles_m._russell/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<object/1961.146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<thesauri/dimension/width> <http://www.w3.org/2000/01/rdf-schema#label> "Width" .
+<object/1961.146/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<object/1961.146/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/montana> .
+<object/1961.146/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <object/1961.146> .
+<thesauri/classification/paintings> <http://www.w3.org/2008/05/skos#prefLabel> "paintings" .
+<object/1961.146> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/1961.146/regno> .
+<person-institution/charles_m._russell/birth/date> <http://www.w3.org/2000/01/rdf-schema#label> "1864" .
+<thesauri/subjectkeyword/animals> <http://www.w3.org/2000/01/rdf-schema#label> " Animals" .
+<object/1961.146> <http://collection.americanart.si.edu/id/ontologies/PE_object_mainclass> <thesauri/classification/paintings> .
+<object/1961.146> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/1961.146/title> .
+<object/1961.146/production/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/place/birth/st._louis_missouri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<bibliography/1961.146> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "http://www.cartermuseum.org/artworks/337" .
+<object/1961.146/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/charles_m._russell> .
+<object/1961.146/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/1961.146> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.146/dimension/width/cm> .
+<object/1961.146/dimension/width/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<thesauri/subjectkeyword/montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/place/great_falls_montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<thesauri/subjectkeyword/blackfoot> <http://www.w3.org/2000/01/rdf-schema#label> " Blackfoot" .
+<person-institution/charles_m._russell/appellation> <http://collection.americanart.si.edu/id/ontologies/PE_firstname> "Charles" .
+<object/1961.146/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/bison_hunting> .
+<thesauri/subjectkeyword/horseback_riding> <http://www.w3.org/2000/01/rdf-schema#label> " horseback riding" .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/gender/male> .
+<person-institution/charles_m._russell/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Charles M. Russell" .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-146_s_0.jpg/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "ACMAA_1961-146.tif" .
+
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/nationality/American> .
+<person-institution/charles_m._russell/birth/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P98i_was_born> <person-institution/charles_m._russell/birth> .
+<thesauri/subjectkeyword/dogs> <http://www.w3.org/2000/01/rdf-schema#label> " Dogs" .
+<thesauri/role/artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<thesauri/material/oil_on_canvas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material> .
+<object/1961.147/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/travois> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-147_s_0.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E38_Image> .
+<object/1961.147/production/date> <http://www.w3.org/2000/01/rdf-schema#label> "1898" .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-147_s_0.jpg> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-147_s_0.jpg/identifier> .
+<object/1961.147> <http://collection.americanart.si.edu/id/ontologies/PE_medium_description> "Oil on canvas" .
+<thesauri/subjectkeyword/blackfeet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amon Carter Museum of American Art, Fort Worth, Texas" .
+<object/1961.147/concept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<person-institution/charles_m._russell/death> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/charles_m._russell/death/date> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-147_s_0.jpg/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "ACMAA_1961-147.tif" .
+<object/1961.147/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/height> .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/birth> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/birth/st._louis_missouri> .
+<thesauri/subjectkeyword/travois> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.147/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/charles_m._russell/appellation> .
+<object/1961.147> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/1961.147/title> .
+<object/1961.147> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.147/dimension/height/cm> .
+<bibliography/1961.147> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "http://www.cartermuseum.org/artworks/2400" .
+<person-institution/charles_m._russell/death/date> <http://www.w3.org/2000/01/rdf-schema#label> "1926" .
+<object/1961.147> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> .
+<object/1961.147/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/horseback_riding> .
+<object/1961.147> <http://collection.americanart.si.edu/id/ontologies/PE_object_mainclass> <thesauri/classification/paintings> .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/death> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E69_Death> .
+<object/1961.147/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<bibliography/1961.147> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/1961.147/publication> .
+<bibliography/1961.147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<thesauri/nationality/American> <http://www.w3.org/2000/01/rdf-schema#label> "American" .
+<thesauri/placetype/City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.147/production/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<person-institution/charles_m._russell/death> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/great_falls_montana> .
+<thesauri/subjectkeyword/horseback_riding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/death/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/2000/01/rdf-schema#label> " Native American" .
+<thesauri/role/artist> <http://www.w3.org/2000/01/rdf-schema#label> "artist" .
+<thesauri/subjectkeyword/animals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.147/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <object/1961.147/production/date> .
+<thesauri/subjectkeyword/blackfeet> <http://www.w3.org/2000/01/rdf-schema#label> " Blackfeet" .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P100i_died_in> <person-institution/charles_m._russell/death> .
+<thesauri/place/great_falls_montana> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<object/1961.147/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/dogs> .
+<thesauri/place/birth/st._louis_missouri> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<person-institution/charles_m._russell/birth> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/charles_m._russell/birth/date> .
+<thesauri/nationality/American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<thesauri/dimension/width> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.147/regno> <http://www.w3.org/2000/01/rdf-schema#label> "1961.147" .
+<thesauri/dimension/height> <http://www.w3.org/2000/01/rdf-schema#label> "Height" .
+<thesauri/classification/paintings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/place/great_falls_montana> <http://www.w3.org/2008/05/skos#prefLabel> "Great Falls, Montana" .
+<thesauri/dimension/height> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.147/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<http://qudt.org/vocab/unit#Centimeter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> .
+<object/1961.147> <http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-147_s_0.jpg> .
+<bibliography/1961.147/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<person-institution/charles_m._russell/birth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E67_Birth> .
+<person-institution/charles_m._russell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/2000/01/rdf-schema#label> " Indians of North America" .
+<thesauri/gender/male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<object/1961.147/title> <http://www.w3.org/2000/01/rdf-schema#label> "Indian Women Moving" .
+<object/1961.147/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <object/1961.147> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/role/artist> .
+<thesauri/gender/male> <http://www.w3.org/2000/01/rdf-schema#label> "male" .
+<object/1961.147/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/native_american> .
+<object/1961.147/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/charles_m._russell> .
+<thesauri/place/birth/st._louis_missouri> <http://www.w3.org/2008/05/skos#prefLabel> "St. Louis, Missouri" .
+<person-institution/charles_m._russell/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<thesauri/dimension/width> <http://www.w3.org/2000/01/rdf-schema#label> "Width" .
+<object/1961.147/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/indians_of_north_america> .
+<thesauri/subjectkeyword/travois> <http://www.w3.org/2000/01/rdf-schema#label> "travois" .
+<object/1961.147/dimension/width/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<thesauri/classification/paintings> <http://www.w3.org/2008/05/skos#prefLabel> "paintings" .
+<object/1961.147/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/blackfeet> .
+<person-institution/charles_m._russell/birth/date> <http://www.w3.org/2000/01/rdf-schema#label> "1864" .
+<object/1961.147/production/date> <http://www.cidoc-crm.org/cidoc-crm/P80_end_is_qualified_by> "1898" .
+<thesauri/subjectkeyword/animals> <http://www.w3.org/2000/01/rdf-schema#label> " Animals" .
+<object/1961.147> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/1961.147/regno> .
+<thesauri/subjectkeyword/women> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/subjectkeyword/women> <http://www.w3.org/2000/01/rdf-schema#label> " women" .
+<object/1961.147/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<thesauri/place/birth/st._louis_missouri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<thesauri/subjectkeyword/dogs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.147/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "61.6" .
+<object/1961.147/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/women> .
+<thesauri/place/great_falls_montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<person-institution/charles_m._russell/appellation> <http://collection.americanart.si.edu/id/ontologies/PE_firstname> "Charles" .
+<object/1961.147> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/1961.147> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-147_s_0.jpg/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/1961.147/dimension/height/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/1961.147> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/1961.147/production> .
+<object/1961.147/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "91.4" .
+<object/1961.147/production/date> <http://www.cidoc-crm.org/cidoc-crm/P79_beginning_is_qualified_by> "1898" .
+<object/1961.147> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.147/dimension/width/cm> .
+<object/1961.147/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/1961.147/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/animals> .
+<thesauri/subjectkeyword/horseback_riding> <http://www.w3.org/2000/01/rdf-schema#label> " horseback riding" .
+<object/1961.147/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/width> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/gender/male> .
+<object/1961.147> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> <object/1961.147/concept> .
+<person-institution/charles_m._russell/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Charles M. Russell" .
+<object/1961.147> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <thesauri/material/oil_on_canvas> .
+<object/1961.147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/nationality/American> .
+<person-institution/charles_m._russell/birth/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/subjectkeyword/medicine_man> <http://www.w3.org/2000/01/rdf-schema#label> " medicine man" .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P98i_was_born> <person-institution/charles_m._russell/birth> .
+<object/1961.171> <http://collection.americanart.si.edu/id/ontologies/PE_object_mainclass> <thesauri/classification/paintings> .
+<object/1961.171> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.171/dimension/width/cm> .
+<object/1961.171/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/charles_m._russell> .
+<thesauri/role/artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<thesauri/material/oil_on_canvas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material> .
+<object/1961.171/production/date> <http://www.cidoc-crm.org/cidoc-crm/P79_beginning_is_qualified_by> "1908" .
+<object/1961.171> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/1961.171/production> .
+<object/1961.171/production/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/1961.171/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/height> .
+<object/1961.171> <http://collection.americanart.si.edu/id/ontologies/PE_medium_description> "Oil on canvas" .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amon Carter Museum of American Art, Fort Worth, Texas" .
+<person-institution/charles_m._russell/death> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/charles_m._russell/death/date> .
+<object/1961.171> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> .
+<bibliography/1961.171> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "http://www.cartermuseum.org/artworks/340" .
+<object/1961.171/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <object/1961.171/production/date> .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/birth> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/birth/st._louis_missouri> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-171_s_0.jpg> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-171_s_0.jpg/identifier> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/charles_m._russell/appellation> .
+<person-institution/charles_m._russell/death/date> <http://www.w3.org/2000/01/rdf-schema#label> "1926" .
+<object/1961.171/production/date> <http://www.w3.org/2000/01/rdf-schema#label> "1908" .
+<object/1961.171/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/death> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E69_Death> .
+<object/1961.171/regno> <http://www.w3.org/2000/01/rdf-schema#label> "1961.171" .
+<thesauri/nationality/American> <http://www.w3.org/2000/01/rdf-schema#label> "American" .
+<thesauri/placetype/City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/death> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/great_falls_montana> .
+<thesauri/subjectkeyword/horseback_riding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/death/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/2000/01/rdf-schema#label> " Native American" .
+<thesauri/role/artist> <http://www.w3.org/2000/01/rdf-schema#label> "artist" .
+<object/1961.171/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/native_american> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P100i_died_in> <person-institution/charles_m._russell/death> .
+<thesauri/place/great_falls_montana> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<thesauri/place/birth/st._louis_missouri> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<object/1961.171/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<person-institution/charles_m._russell/birth> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/charles_m._russell/birth/date> .
+<thesauri/nationality/American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<thesauri/dimension/width> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/subjectkeyword/blackfoot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.171/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<thesauri/dimension/height> <http://www.w3.org/2000/01/rdf-schema#label> "Height" .
+<object/1961.171/dimension/width/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<thesauri/classification/paintings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/place/great_falls_montana> <http://www.w3.org/2008/05/skos#prefLabel> "Great Falls, Montana" .
+<bibliography/1961.171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<thesauri/dimension/height> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://qudt.org/vocab/unit#Centimeter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> .
+<person-institution/charles_m._russell/birth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E67_Birth> .
+<person-institution/charles_m._russell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<object/1961.171/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/indians_of_north_america> .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/2000/01/rdf-schema#label> " Indians of North America" .
+<thesauri/gender/male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/role/artist> .
+<object/1961.171> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/1961.171> .
+<thesauri/gender/male> <http://www.w3.org/2000/01/rdf-schema#label> "male" .
+<bibliography/1961.171> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/1961.171/publication> .
+<thesauri/subjectkeyword/horses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.171> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> <object/1961.171/concept> .
+<object/1961.171/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/width> .
+<object/1961.171> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/1961.171/regno> .
+<object/1961.171/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/horses> .
+<object/1961.171/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-171_s_0.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E38_Image> .
+<thesauri/place/birth/st._louis_missouri> <http://www.w3.org/2008/05/skos#prefLabel> "St. Louis, Missouri" .
+<person-institution/charles_m._russell/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<thesauri/dimension/width> <http://www.w3.org/2000/01/rdf-schema#label> "Width" .
+<object/1961.171/production/date> <http://www.cidoc-crm.org/cidoc-crm/P80_end_is_qualified_by> "1908" .
+<object/1961.171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/1961.171/dimension/height/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/1961.171/title> <http://www.w3.org/2000/01/rdf-schema#label> "The Medicine Man" .
+<object/1961.171/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/horseback_riding> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-171_s_0.jpg/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<thesauri/classification/paintings> <http://www.w3.org/2008/05/skos#prefLabel> "paintings" .
+<person-institution/charles_m._russell/birth/date> <http://www.w3.org/2000/01/rdf-schema#label> "1864" .
+<object/1961.171> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/1961.171/title> .
+<object/1961.171/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/medicine_man> .
+<object/1961.171> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.171/dimension/height/cm> .
+<object/1961.171/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "122.2" .
+<thesauri/place/birth/st._louis_missouri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<object/1961.171> <http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-171_s_0.jpg> .
+<bibliography/1961.171/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<thesauri/place/great_falls_montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<thesauri/subjectkeyword/medicine_man> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/charles_m._russell/appellation> <http://collection.americanart.si.edu/id/ontologies/PE_firstname> "Charles" .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-171_s_0.jpg/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "ACMAA_1961-171.tif" .
+<object/1961.171/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/1961.171> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <thesauri/material/oil_on_canvas> .
+<object/1961.171/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <object/1961.171> .
+<object/1961.171/concept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<thesauri/subjectkeyword/blackfoot> <http://www.w3.org/2000/01/rdf-schema#label> "Blackfoot" .
+<thesauri/subjectkeyword/horses> <http://www.w3.org/2000/01/rdf-schema#label> " horses" .
+<thesauri/subjectkeyword/horseback_riding> <http://www.w3.org/2000/01/rdf-schema#label> " horseback riding" .
+<object/1961.171/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "76.2" .
+<object/1961.171/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/blackfoot> .
+<person-institution/charles_m._russell> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/gender/male> .
+<person-institution/charles_m._russell/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Charles M. Russell" .
+
+<object/1961.228/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/width> .
+<thesauri/subjectkeyword/horses> <http://www.w3.org/2000/01/rdf-schema#label> " Horses" .
+<bibliography/1961.228> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "http://www.cartermuseum.org/artworks/2440" .
+<object/1961.228> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.228/dimension/width/cm> .
+<object/1961.228> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/1961.228/title> .
+<person-institution/frederic_remington> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/gender/male> .
+<thesauri/material/oil_on_canvas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material> .
+<thesauri/role/artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<object/1961.228/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <object/1961.228/production/date> .
+<person-institution/frederic_remington/death> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/ridgefield_connecticut> .
+<thesauri/place/ridgefield_connecticut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<object/1961.228/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/frederic_remington> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amon Carter Museum of American Art, Fort Worth, Texas" .
+<object/1961.228> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.228/dimension/height/cm> .
+<person-institution/frederic_remington/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<person-institution/frederic_remington> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/role/artist> .
+<person-institution/frederic_remington/birth> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/birth/canton_new_york> .
+<object/1961.228/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/1961.228/regno> <http://www.w3.org/2000/01/rdf-schema#label> "1961.228" .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.228> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> .
+<thesauri/subjectkeyword/night_scenes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-228_s_0.jpg> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-228_s_0.jpg/identifier> .
+<object/1961.228/production/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/nationality/American> <http://www.w3.org/2000/01/rdf-schema#label> "American" .
+<thesauri/placetype/City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/subjectkeyword/fires> <http://www.w3.org/2000/01/rdf-schema#label> " fires" .
+<thesauri/subjectkeyword/native_american> <http://www.w3.org/2000/01/rdf-schema#label> " Native American" .
+<thesauri/subjectkeyword/natural_disasters> <http://www.w3.org/2000/01/rdf-schema#label> " natural disasters" .
+<person-institution/frederic_remington/birth> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/frederic_remington/birth/date> .
+<thesauri/role/artist> <http://www.w3.org/2000/01/rdf-schema#label> "artist" .
+<person-institution/frederic_remington> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/frederic_remington/appellation> .
+<thesauri/subjectkeyword/night_scenes> <http://www.w3.org/2000/01/rdf-schema#label> " night scenes" .
+<person-institution/frederic_remington> <http://www.cidoc-crm.org/cidoc-crm/P98i_was_born> <person-institution/frederic_remington/birth> .
+<object/1961.228> <http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-228_s_0.jpg> .
+<object/1961.228/concept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<thesauri/nationality/American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<thesauri/dimension/width> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.228/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/native_american> .
+<object/1961.228/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/natural_disasters> .
+<person-institution/frederic_remington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<thesauri/dimension/height> <http://www.w3.org/2000/01/rdf-schema#label> "Height" .
+<object/1961.228> <http://collection.americanart.si.edu/id/ontologies/PE_object_mainclass> <thesauri/classification/paintings> .
+<object/1961.228> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/1961.228/production> .
+<thesauri/classification/paintings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/dimension/height> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://qudt.org/vocab/unit#Centimeter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-228_s_0.jpg/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "ACMAA_1961-228.tif" .
+<object/1961.228> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <thesauri/material/oil_on_canvas> .
+<person-institution/frederic_remington/birth/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/subjectkeyword/natural_disasters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.228/title> <http://www.w3.org/2000/01/rdf-schema#label> "The Grass Fire" .
+<object/1961.228/production/date> <http://www.cidoc-crm.org/cidoc-crm/P79_beginning_is_qualified_by> "1908" .
+<thesauri/gender/male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/place/ridgefield_connecticut> <http://www.w3.org/2008/05/skos#prefLabel> "Ridgefield, Connecticut" .
+<thesauri/place/birth/canton_new_york> <http://www.w3.org/2008/05/skos#prefLabel> "Canton, New York" .
+<bibliography/1961.228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<thesauri/subjectkeyword/fires> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-228_s_0.jpg/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<thesauri/place/ridgefield_connecticut> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<thesauri/gender/male> <http://www.w3.org/2000/01/rdf-schema#label> "male" .
+<thesauri/subjectkeyword/horses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/frederic_remington/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Frederic Remington" .
+<object/1961.228/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<thesauri/place/birth/canton_new_york> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<object/1961.228/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<object/1961.228/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-228_s_0.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E38_Image> .
+<person-institution/frederic_remington/birth/date> <http://www.w3.org/2000/01/rdf-schema#label> "1861" .
+<thesauri/place/birth/canton_new_york> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<object/1961.228> <http://collection.americanart.si.edu/id/ontologies/PE_medium_description> "Oil on canvas" .
+<thesauri/dimension/width> <http://www.w3.org/2000/01/rdf-schema#label> "Width" .
+<person-institution/frederic_remington> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/nationality/American> .
+<person-institution/frederic_remington/death/date> <http://www.w3.org/2000/01/rdf-schema#label> "1909" .
+<object/1961.228/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <object/1961.228> .
+<object/1961.228/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/horses> .
+<object/1961.228/production/date> <http://www.cidoc-crm.org/cidoc-crm/P80_end_is_qualified_by> "1908" .
+<person-institution/frederic_remington/death> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/frederic_remington/death/date> .
+<thesauri/classification/paintings> <http://www.w3.org/2008/05/skos#prefLabel> "paintings" .
+<object/1961.228/dimension/width/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/1961.228/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<object/1961.228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/1961.228/production/date> <http://www.w3.org/2000/01/rdf-schema#label> "1908" .
+<object/1961.228/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "101.9" .
+<object/1961.228/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/fires> .
+<object/1961.228> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> <object/1961.228/concept> .
+<object/1961.228> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/1961.228/regno> .
+<person-institution/frederic_remington> <http://www.cidoc-crm.org/cidoc-crm/P100i_died_in> <person-institution/frederic_remington/death> .
+<bibliography/1961.228/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<person-institution/frederic_remington/death/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/1961.228/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/night_scenes> .
+<person-institution/frederic_remington/birth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E67_Birth> .
+<person-institution/frederic_remington/death> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E69_Death> .
+<object/1961.228/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/indians_of_north_america> .
+<bibliography/1961.228> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/1961.228/publication> .
+<object/1961.228/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "68.9" .
+<object/1961.228> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/1961.228> .
+<object/1961.228/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/height> .
+<object/1961.228/dimension/height/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<person-institution/frederic_remington/appellation> <http://collection.americanart.si.edu/id/ontologies/PE_firstname> "Frederic" .
+<thesauri/subjectkeyword/indians_of_north_america> <http://www.w3.org/2000/01/rdf-schema#label> "Indians of North America" .
+
+<thesauri/subjectkeyword/nudes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/subjectkeyword/neoclassical> <http://www.w3.org/2000/01/rdf-schema#label> " Neoclassical" .
+<object/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <thesauri/material/bronze> .
+<thesauri/classification/sculpture> <http://www.w3.org/2008/05/skos#prefLabel> "sculpture" .
+<object/1986.36/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/roman_mythology> .
+<thesauri/subjectkeyword/goddesses> <http://www.w3.org/2000/01/rdf-schema#label> " Goddesses" .
+<person-institution/frederick_william_macmonnies/birth> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/frederick_william_macmonnies/birth/date> .
+<person-institution/frederick_william_macmonnies/death> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/frederick_william_macmonnies/death/date> .
+<person-institution/frederick_william_macmonnies/death> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/new_york_new_york> .
+<thesauri/role/artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<object/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through> <object/1986.36/acquisition> .
+<thesauri/subjectkeyword/figures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1986.36/title> <http://www.w3.org/2000/01/rdf-schema#label> "Diana" .
+<object/1986.36/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<thesauri/subjectkeyword/beaux-arts> <http://www.w3.org/2000/01/rdf-schema#label> " Beaux-Arts" .
+<object/1986.36/production/date> <http://www.w3.org/2000/01/rdf-schema#label> "1890" .
+<person-institution/frederick_william_macmonnies/death> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E69_Death> .
+<person-institution/frederick_william_macmonnies> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/nationality/American> .
+<thesauri/subjectkeyword/bows_(archery)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1986.36/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "52.7" .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amon Carter Museum of American Art, Fort Worth, Texas" .
+<thesauri/material/bronze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material> .
+<object/1986.36/dimension/height/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<bibliography/1986.36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<object/1986.36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/1986.36/production/date> <http://www.cidoc-crm.org/cidoc-crm/P80_end_is_qualified_by> "1890" .
+<object/1986.36/production/date> <http://www.cidoc-crm.org/cidoc-crm/P79_beginning_is_qualified_by> "1890" .
+<bibliography/1986.36/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1986.36/dimension/height/cm> .
+<person-institution/frederick_william_macmonnies> <http://www.cidoc-crm.org/cidoc-crm/P98i_was_born> <person-institution/frederick_william_macmonnies/birth> .
+<thesauri/subjectkeyword/bows_(archery)> <http://www.w3.org/2000/01/rdf-schema#label> " Bows (Archery)" .
+<thesauri/place/birth/brooklyn_new_york> <http://www.w3.org/2008/05/skos#prefLabel> "Brooklyn, New York" .
+<object/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/1986.36> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1986-36_s_0.jpg> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1986-36_s_0.jpg/identifier> .
+<object/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/1986.36/regno> .
+<object/1986.36/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/neoclassical> .
+<object/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/1986.36/title> .
+<thesauri/nationality/American> <http://www.w3.org/2000/01/rdf-schema#label> "American" .
+<thesauri/place/new_york_new_york> <http://www.w3.org/2008/05/skos#prefLabel> "New York, New York" .
+<object/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> .
+<thesauri/classification/sculpture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<bibliography/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/1986.36/publication> .
+<thesauri/placetype/City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/1986.36/production> .
+<object/1986.36> <http://collection.americanart.si.edu/id/ontologies/PE_object_mainclass> <thesauri/classification/sculpture> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1986-36_s_0.jpg/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/1986.36/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/goddesses> .
+<thesauri/role/artist> <http://www.w3.org/2000/01/rdf-schema#label> "artist" .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1986-36_s_0.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E38_Image> .
+<thesauri/dimension/depth> <http://www.w3.org/2000/01/rdf-schema#label> "Depth" .
+<object/1986.36> <http://collection.americanart.si.edu/id/ontologies/PE_medium_description> "Bronze" .
+<object/1986.36/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/1986.36/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/bows_(archery)> .
+<thesauri/nationality/American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<thesauri/dimension/width> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/dimension/depth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/dimension/height> <http://www.w3.org/2000/01/rdf-schema#label> "Height" .
+<object/1986.36/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<object/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1986.36/dimension/depth/cm> .
+<thesauri/dimension/height> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/subjectkeyword/roman_mythology> <http://www.w3.org/2000/01/rdf-schema#label> " Roman mythology" .
+<http://qudt.org/vocab/unit#Centimeter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> .
+<person-institution/frederick_william_macmonnies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<object/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1986-36_s_0.jpg> .
+<object/1986.36/dimension/width/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/1986.36/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <object/1986.36/production/date> .
+<person-institution/frederick_william_macmonnies/death/date> <http://www.w3.org/2000/01/rdf-schema#label> "1937" .
+<thesauri/gender/male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<object/1986.36/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/width> .
+<object/1986.36/dimension/depth/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "48.6" .
+<object/1986.36/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/figures> .
+<object/1986.36/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Gift of the Board of Trustees in honor of Ruth Carter Stevenson" .
+<person-institution/frederick_william_macmonnies/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<thesauri/gender/male> <http://www.w3.org/2000/01/rdf-schema#label> "male" .
+<object/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1986.36/dimension/width/cm> .
+<person-institution/frederick_william_macmonnies> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/frederick_william_macmonnies/appellation> .
+<object/1986.36/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<thesauri/subjectkeyword/goddesses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/frederick_william_macmonnies/birth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E67_Birth> .
+<object/1986.36/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <object/1986.36> .
+<thesauri/place/new_york_new_york> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<object/1986.36/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> .
+<thesauri/dimension/width> <http://www.w3.org/2000/01/rdf-schema#label> "Width" .
+<person-institution/frederick_william_macmonnies/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Frederick William MacMonnies" .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1986-36_s_0.jpg/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "ACMAA_1986-36.tif" .
+<object/1986.36/dimension/depth/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/depth> .
+<thesauri/subjectkeyword/women> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/subjectkeyword/women> <http://www.w3.org/2000/01/rdf-schema#label> "women" .
+<object/1986.36/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<thesauri/place/new_york_new_york> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<person-institution/frederick_william_macmonnies/birth> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/birth/brooklyn_new_york> .
+<person-institution/frederick_william_macmonnies/birth/date> <http://www.w3.org/2000/01/rdf-schema#label> "1863" .
+<person-institution/frederick_william_macmonnies/appellation> <http://collection.americanart.si.edu/id/ontologies/PE_firstname> "Frederick" .
+<thesauri/subjectkeyword/roman_mythology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/subjectkeyword/figures> <http://www.w3.org/2000/01/rdf-schema#label> " figures" .
+<thesauri/place/birth/brooklyn_new_york> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<object/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> <object/1986.36/concept> .
+<object/1986.36/concept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/1986.36/dimension/depth/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<bibliography/1986.36> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "http://www.cartermuseum.org/custom/acm_display.php?irn=99591&QueryPage=%2Fcustom%2F" .
+<person-institution/frederick_william_macmonnies> <http://www.cidoc-crm.org/cidoc-crm/P100i_died_in> <person-institution/frederick_william_macmonnies/death> .
+<object/1986.36/dimension/depth/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/1986.36/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/height> .
+<object/1986.36/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "76.8" .
+<thesauri/subjectkeyword/beaux-arts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/frederick_william_macmonnies/death/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/1986.36/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/nudes> .
+<object/1986.36/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/beaux-arts> .
+<object/1986.36/regno> <http://www.w3.org/2000/01/rdf-schema#label> "1986.36" .
+<object/1986.36/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/frederick_william_macmonnies> .
+<person-institution/frederick_william_macmonnies/birth/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/place/birth/brooklyn_new_york> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<person-institution/frederick_william_macmonnies> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/gender/male> .
+<thesauri/subjectkeyword/neoclassical> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1986.36/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/women> .
+<thesauri/subjectkeyword/nudes> <http://www.w3.org/2000/01/rdf-schema#label> " nudes" .
+<object/1986.36/production/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<person-institution/frederick_william_macmonnies> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/role/artist> .
+
+<http://qudt.org/vocab/unit#Centimeter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> .
+<object/1995.15/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Purchase with funds provided by the Council of the Amon Carter Museum of American Art" .
+<object/1995.15/production/date> <http://www.cidoc-crm.org/cidoc-crm/P79_beginning_is_qualified_by> "1914" .
+<object/1995.15/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/abstract> .
+<object/1995.15/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <object/1995.15/production/date> .
+<object/1995.15/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/joseph_stella> .
+<object/1995.15/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/1995.15/production/date> <http://www.cidoc-crm.org/cidoc-crm/P80_end_is_qualified_by> "1914" .
+<object/1995.15/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<thesauri/gender/male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/joseph_stella> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/joseph_stella/appellation> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<person-institution/joseph_stella/death/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<person-institution/joseph_stella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<thesauri/role/artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<thesauri/gender/male> <http://www.w3.org/2000/01/rdf-schema#label> "male" .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1995-15_s_0.jpg> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1995-15_s_0.jpg/identifier> .
+<thesauri/subjectkeyword/abstract> <http://www.w3.org/2000/01/rdf-schema#label> " abstract" .
+<thesauri/place/birth/muro_lucano_italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<person-institution/joseph_stella/death> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E69_Death> .
+<object/1995.15/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/width> .
+<thesauri/place/new_york_new_york> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<object/1995.15/regno> <http://www.w3.org/2000/01/rdf-schema#label> "1995.15" .
+<person-institution/joseph_stella> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/nationality/American> .
+<thesauri/subjectkeyword/abstract> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amon Carter Museum of American Art, Fort Worth, Texas" .
+<thesauri/dimension/width> <http://www.w3.org/2000/01/rdf-schema#label> "Width" .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1995-15_s_0.jpg/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "ACMAA_1995-15.tif" .
+<bibliography/1995.15/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<thesauri/place/birth/muro_lucano_italy> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<thesauri/classification/pastels> <http://www.w3.org/2008/05/skos#prefLabel> "pastels" .
+<object/1995.15/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<thesauri/material/pastel_over_graphite_on_paper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material> .
+<object/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1995-15_s_0.jpg> .
+<object/1995.15/production/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/1995.15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<person-institution/joseph_stella> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/gender/male> .
+<person-institution/joseph_stella/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<thesauri/place/new_york_new_york> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<object/1995.15/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<bibliography/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "http://www.cartermuseum.org/custom/acm_display.php?irn=39689&QueryPage=%2Fcustom%2F" .
+<person-institution/joseph_stella> <http://www.cidoc-crm.org/cidoc-crm/P100i_died_in> <person-institution/joseph_stella/death> .
+<object/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1995.15/dimension/height/cm> .
+<object/1995.15/title> <http://www.w3.org/2000/01/rdf-schema#label> "Furutist Composition" .
+<bibliography/1995.15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<object/1995.15/concept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/1995.15/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> .
+<object/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1995.15/dimension/width/cm> .
+<object/1995.15/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/futurism> .
+<person-institution/joseph_stella/appellation> <http://collection.americanart.si.edu/id/ontologies/PE_firstname> "Joseph" .
+<thesauri/nationality/American> <http://www.w3.org/2000/01/rdf-schema#label> "American" .
+<thesauri/place/new_york_new_york> <http://www.w3.org/2008/05/skos#prefLabel> "New York, New York" .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1995-15_s_0.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E38_Image> .
+<thesauri/placetype/City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1995-15_s_0.jpg/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<person-institution/joseph_stella/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Stella" .
+<thesauri/subjectkeyword/futurism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1995.15/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/height> .
+<object/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through> <object/1995.15/acquisition> .
+<person-institution/joseph_stella/birth> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/birth/muro_lucano_italy> .
+<person-institution/joseph_stella> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/role/artist> .
+<object/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/1995.15/regno> .
+<person-institution/joseph_stella/birth/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<person-institution/joseph_stella> <http://www.cidoc-crm.org/cidoc-crm/P98i_was_born> <person-institution/joseph_stella/birth> .
+<person-institution/joseph_stella/birth/date> <http://www.w3.org/2000/01/rdf-schema#label> "1877" .
+<thesauri/role/artist> <http://www.w3.org/2000/01/rdf-schema#label> "artist" .
+<object/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> .
+<object/1995.15/production/date> <http://www.w3.org/2000/01/rdf-schema#label> "1914" .
+<person-institution/joseph_stella/birth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E67_Birth> .
+<object/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> <object/1995.15/concept> .
+<object/1995.15/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <object/1995.15> .
+<object/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/1995.15> .
+<thesauri/classification/pastels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/1995.15/title> .
+<object/1995.15/dimension/width/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/1995.15/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "41.6" .
+<person-institution/joseph_stella/birth> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/joseph_stella/birth/date> .
+<person-institution/joseph_stella/death> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/new_york_new_york> .
+<object/1995.15> <http://collection.americanart.si.edu/id/ontologies/PE_object_mainclass> <thesauri/classification/pastels> .
+<object/1995.15> <http://collection.americanart.si.edu/id/ontologies/PE_medium_description> "Pastel over graphite on paper" .
+<object/1995.15/dimension/height/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<person-institution/joseph_stella/death/date> <http://www.w3.org/2000/01/rdf-schema#label> "1946" .
+<object/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/1995.15/production> .
+<thesauri/subjectkeyword/futurism> <http://www.w3.org/2000/01/rdf-schema#label> "Futurism" .
+<thesauri/nationality/American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<thesauri/dimension/width> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <thesauri/material/pastel_over_graphite_on_paper> .
+<object/1995.15/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "55.5" .
+<thesauri/dimension/height> <http://www.w3.org/2000/01/rdf-schema#label> "Height" .
+<thesauri/place/birth/muro_lucano_italy> <http://www.w3.org/2008/05/skos#prefLabel> "Muro Lucano, Italy" .
+<person-institution/joseph_stella/death> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/joseph_stella/death/date> .
+<object/1995.15/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<thesauri/dimension/height> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<bibliography/1995.15> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/1995.15/publication> .
+
+<thesauri/classification/sculpture> <http://www.w3.org/2008/05/skos#prefLabel> "sculpture" .
+<object/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/1961.1/production> .
+<thesauri/subjectkeyword/chaps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.1/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-1_s_0.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E38_Image> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-1_s_0.jpg> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-1_s_0.jpg/identifier> .
+<person-institution/frederic_remington> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/gender/male> .
+<thesauri/role/artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<person-institution/frederic_remington/death> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/ridgefield_connecticut> .
+<object/1961.1/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/horseback_riding> .
+<object/1961.1/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/width> .
+<object/1961.1/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/chaps> .
+<bibliography/1961.1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<thesauri/place/ridgefield_connecticut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-1_s_0.jpg/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amon Carter Museum of American Art, Fort Worth, Texas" .
+<thesauri/subjectkeyword/chaps> <http://www.w3.org/2000/01/rdf-schema#label> " chaps" .
+<object/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> .
+<person-institution/frederic_remington/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<person-institution/frederic_remington> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/role/artist> .
+<person-institution/frederic_remington/birth> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <thesauri/place/birth/canton_new_york> .
+<thesauri/material/bronze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material> .
+<object/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.1/dimension/height/cm> .
+<bibliography/1961.1/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/1961.1/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/1961.1/production/date> <http://www.cidoc-crm.org/cidoc-crm/P79_beginning_is_qualified_by> "1905" .
+<object/1961.1/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <object/1961.1> .
+<object/1961.1> <http://collection.americanart.si.edu/id/ontologies/PE_medium_description> "Bronze" .
+<object/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.1/dimension/width/cm> .
+<bibliography/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "http://www.cartermuseum.org/artworks/2290" .
+<thesauri/nationality/American> <http://www.w3.org/2000/01/rdf-schema#label> "American" .
+<thesauri/classification/sculpture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/placetype/City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> <object/1961.1/concept> .
+<thesauri/subjectkeyword/horseback_riding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.1/dimension/depth/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<person-institution/frederic_remington/birth> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/frederic_remington/birth/date> .
+<thesauri/role/artist> <http://www.w3.org/2000/01/rdf-schema#label> "artist" .
+<bibliography/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/1961.1/publication> .
+<thesauri/subjectkeyword/animals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/frederic_remington> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/frederic_remington/appellation> .
+<thesauri/dimension/depth> <http://www.w3.org/2000/01/rdf-schema#label> "Depth" .
+<object/1961.1/dimension/width/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "44.8" .
+<object/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation> <http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-1_s_0.jpg> .
+<person-institution/frederic_remington> <http://www.cidoc-crm.org/cidoc-crm/P98i_was_born> <person-institution/frederic_remington/birth> .
+<object/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/1961.1/title> .
+<thesauri/nationality/American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<thesauri/dimension/width> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/dimension/depth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <thesauri/material/bronze> .
+<person-institution/frederic_remington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<thesauri/dimension/height> <http://www.w3.org/2000/01/rdf-schema#label> "Height" .
+<object/1961.1/concept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<thesauri/dimension/height> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://qudt.org/vocab/unit#Centimeter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> .
+<object/1961.1/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/rattlesnakes> .
+<object/1961.1/dimension/width/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<person-institution/frederic_remington/birth/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/1961.1> <http://collection.americanart.si.edu/id/ontologies/PE_object_mainclass> <thesauri/classification/sculpture> .
+<thesauri/gender/male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/place/ridgefield_connecticut> <http://www.w3.org/2008/05/skos#prefLabel> "Ridgefield, Connecticut" .
+<thesauri/place/birth/canton_new_york> <http://www.w3.org/2008/05/skos#prefLabel> "Canton, New York" .
+<object/1961.1/dimension/height/cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/1961.1/regno> .
+<http://collection.cartermuseum.org/id/the-amon-carter-museum-of-american-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<object/1961.1/production/date> <http://www.w3.org/2000/01/rdf-schema#label> "1908" .
+<thesauri/place/ridgefield_connecticut> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<thesauri/gender/male> <http://www.w3.org/2000/01/rdf-schema#label> "male" .
+<thesauri/subjectkeyword/horses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/frederic_remington/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Frederic Remington" .
+<thesauri/place/birth/canton_new_york> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place> .
+<thesauri/subjectkeyword/cowboys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/frederic_remington/birth/date> <http://www.w3.org/2000/01/rdf-schema#label> "1861" .
+<thesauri/place/birth/canton_new_york> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/placetype/City> .
+<object/1961.1/dimension/depth/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<object/1961.1/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://qudt.org/vocab/unit#Centimeter> .
+<object/1961.1/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/frederic_remington> .
+<thesauri/dimension/width> <http://www.w3.org/2000/01/rdf-schema#label> "Width" .
+<person-institution/frederic_remington> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <thesauri/nationality/American> .
+<person-institution/frederic_remington/death/date> <http://www.w3.org/2000/01/rdf-schema#label> "1909" .
+<object/1961.1/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/cowboys> .
+<person-institution/frederic_remington/death> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <person-institution/frederic_remington/death/date> .
+<object/1961.1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<thesauri/subjectkeyword/rattlesnakes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/subjectkeyword/animals> <http://www.w3.org/2000/01/rdf-schema#label> " Animals" .
+<object/1961.1/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/height> .
+<object/1961.1/production/date> <http://www.cidoc-crm.org/cidoc-crm/P80_end_is_qualified_by> "1908" .
+<object/1961.1/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/1961.1> .
+<object/1961.1/dimension/height/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "60.6" .
+<object/1961.1/production/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/1961.1/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/horses> .
+<thesauri/subjectkeyword/rattlesnakes> <http://www.w3.org/2000/01/rdf-schema#label> " Rattlesnakes" .
+<object/1961.1/regno> <http://www.w3.org/2000/01/rdf-schema#label> "1961.1" .
+<person-institution/frederic_remington> <http://www.cidoc-crm.org/cidoc-crm/P100i_died_in> <person-institution/frederic_remington/death> .
+<thesauri/subjectkeyword/cowboys> <http://www.w3.org/2000/01/rdf-schema#label> "Cowboys" .
+<http://www.cartermuseum.org/sites/all/files/styles/artwork_full/public/images/1961-1_s_0.jpg/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "ACMAA_1961-1.tif" .
+<person-institution/frederic_remington/death/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/1961.1/title> <http://www.w3.org/2000/01/rdf-schema#label> "The Rattlesnake" .
+<person-institution/frederic_remington/birth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E67_Birth> .
+<person-institution/frederic_remington/death> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E69_Death> .
+<object/1961.1> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/1961.1/dimension/depth/cm> .
+<object/1961.1/concept> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <thesauri/subjectkeyword/animals> .
+<object/1961.1/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <object/1961.1/production/date> .
+<object/1961.1/dimension/depth/cm> <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "31.1" .
+<object/1961.1/dimension/depth/cm> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/dimension/depth> .
+<thesauri/subjectkeyword/horses> <http://www.w3.org/2000/01/rdf-schema#label> " horses" .
+<person-institution/frederic_remington/appellation> <http://collection.americanart.si.edu/id/ontologies/PE_firstname> "Frederic" .
+<thesauri/subjectkeyword/horseback_riding> <http://www.w3.org/2000/01/rdf-schema#label> " horseback riding" .
+<object/1961.1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
